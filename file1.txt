@@ -1,1 +1,3 @@
 updating index
+updating index 1
+updating index 2
